@@ -1,0 +1,3 @@
+﻿  chap11.cpp
+G:\c++\Chapter 11 for real this time\Chapter 11 for real this time\chap11.cpp(18,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Chapter 11 for real this time.vcxproj -> G:\c++\Chapter 11 for real this time\Debug\Chapter 11 for real this time.exe
